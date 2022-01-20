@@ -1,0 +1,9 @@
+{
+    "policyId": "c1b52de984edf35066439cd231683683040a8a669913e4ede85c0bb1",
+    "name": "LindaLove",
+    "symbol": "LLOVE",
+    "website": "https://maluiin.com/nft-gallery/",
+    "description": "A token for use within MaluiinPool/Cryptofly777 projects.",
+    "totalSupply": 50000000,
+    "amounts": [1, 5, 10, 50, 100, 500, 1000, 5000, 10000, 50000, 100000, 500000, 1000000, 5000000, 10000000, 50000000]
+}
